@@ -1,5 +1,3 @@
-
-```markdown
 # Program Review: Simple Banking ATM System
 
 ## Overview
